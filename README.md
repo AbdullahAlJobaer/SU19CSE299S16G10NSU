@@ -12,3 +12,9 @@
 
  Section:16
 
+Description:
+
+Main purpose of my web app is to make it easier for travellers to find perfect tourist spot easily. People can browse through different places of different districts. My web app will going to have two kind of users: Admin and User. Admin will hold the power to control it. User can review every place they have visited. 
+
+
+

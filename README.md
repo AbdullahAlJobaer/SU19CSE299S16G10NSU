@@ -27,8 +27,11 @@ I’m going to include all these unknown beautiful places in my web app. Through
 Features:
 
 *User can hire a guide using our web app. 
+
 *User can book hotels.
+
 *Every included place will have some photos so that user can choose their desired place.
+
 *User can upload their own captured photos (only nature photo)
 
 Technology Used: 
@@ -49,6 +52,7 @@ FAQ:
 It will contain generally asked questions on how to sign up, upload and download.
 
 Account Information:	
+
 This will contain personal information and account related information. 
 Edit Account Information:
 User will able to edit their account information. Also there will be option to delete account.
@@ -78,6 +82,7 @@ I will share most of advertising options including banner ads that I’m accepti
 Most importantly I will share how I will be accepting money like via Visa/MasterCard or though credit cards etc. I will also share how advertisers can contact me by sharing my email id or by adding a contact form on advertising page.
 	
 Ads per minute served:1$
+
 Ads per hour served:20$
     
 

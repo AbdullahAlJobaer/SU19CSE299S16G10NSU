@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>TourMapBD</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: lightgreen ;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -49,7 +49,7 @@
             }
 
             .links > a {
-                color: #636b6f;
+                color: red;
                 padding: 0 25px;
                 font-size: 13px;
                 font-weight: 600;
@@ -81,17 +81,17 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    TourMapBD
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://bit.ly/2Y6g1qk">Dhaka</a>
+                    <a href="https://bit.ly/2y5etlD">Chittagong</a>
+                    <a href="https://bit.ly/2y5eE0h">Sylhet</a>
+                    <a href="https://bit.ly/2XX9Qd1">Rajshahi</a>
+                    <a href="https://bit.ly/2JUIryp">Barisal</a>
+                    <a href="https://bit.ly/32JAPY9">Khulna</a>
+                    <a href="https://bit.ly/2Yn9FXD">Mymensingh</a>
                 </div>
             </div>
         </div>

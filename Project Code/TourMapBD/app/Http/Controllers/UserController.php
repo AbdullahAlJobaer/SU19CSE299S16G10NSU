@@ -33,7 +33,20 @@ class UserController extends Controller
         return view('profile', ['user'=>$user]);
     }
 
-    
+    public function edit($id)
+    {
+        //
+    }
+
+    public function update(Request $request, $id)
+    {
+        //
+    }
+
+    public function destroy($id)
+    {
+        //
+    }
 
 
 

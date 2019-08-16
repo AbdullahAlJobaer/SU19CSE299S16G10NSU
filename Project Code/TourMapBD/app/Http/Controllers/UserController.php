@@ -17,4 +17,25 @@ class UserController extends Controller
         return view('users', ['users'=>$users]);
     }
 
+    public function create()
+    {
+        //
+    }
+
+    public function store(Request $request)
+    {
+        //
+    }
+
+    public function show($id)
+    {
+        $user = User::where('id', $id)->first();// DB::table('places')->create(['name'=>$request->name,]);
+        return view('profile', ['user'=>$user]);
+    }
+
+    
+
+
+
+
 }

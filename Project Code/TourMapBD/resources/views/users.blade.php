@@ -34,7 +34,14 @@
                         </tr>
                     </thead>
                     <tbody>
-                    
+                    @foreach($users as $user)
+                        <tr>
+                        <th scope="row">{{$user->id}}</th>
+                        <td><a href="{{url('profile/'.$user->id)}}">{{$user->name}}</a></td>
+                        <td>{{$user->email}}</td>
+                        <td>{{$user->created_at->format('d-m-Y')}}</td>
+                        </tr>
+                    @endforeach
                     </tbody>
                 </table>
             </div>

@@ -19,6 +19,26 @@
                 </li>
             </ul>
         </div>
+        <div class="col-md-10">
+        <h3>Users list</h3>
+        <div class="card">
+            <div class="card-body">
+        
+                <table class="table">
+                    <thead>
+                        <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Created at</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    
+                    </tbody>
+                </table>
+            </div>
+        </div>
     </div>
 </div>
 @endsection

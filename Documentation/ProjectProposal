@@ -1,0 +1,88 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/51715637/61519684-50a94980-aa2e-11e9-974f-273f76c90efc.gif"></p>
+
+                                              # SU19CSE299S16G10NSU
+ 
+                                          CSE 299: Junior Design Project
+
+                                             Project Name: Tour Map BD
+
+                                              Name: Masrur Ahmed Santo
+
+                                                  Id: 1520469642
+
+                                                    Section:16
+
+Description:
+
+Main purpose of my web app is to make it easier for travellers to find perfect tourist spot easily. People can browse through different places of different districts. My web app will going to have two kind of users: Admin and User. Admin will hold the power to control it. User can review every place they have visited. 
+
+Problems: 
+
+People love to visit. But they know only common tourist places. As an example if we talk about Sylhet, we know common beautiful places like Jaflong, Hakaluki Haor, Ratargul Swamp Forest etc. But most of us don’t know that Sylhet has many other beautiful places like Bholagonj, Bichanakandi etc. In that case, most of us don’t even know how beautiful these places are.  
+
+Problem solving:
+
+I’m going to include all these unknown beautiful places in my web app. Through my app they can visit and enjoy these hidden beautiful places. My web app will provide a good simple user interface. And also the system will make it easier for tourists to find their desired places.  
+  
+Features:
+
+*User can hire a guide using our web app. 
+
+*User can book hotels.
+
+*Every included place will have some photos so that user can choose their desired place.
+
+*User can upload their own captured photos (only nature photo)
+
+Technology Used: 
+
+Backend:
+Laravel, PHP, MySQL
+Front End:
+HTML, CSS, Bootstrap
+
+Home Page
+
+Sign up
+Register as a user: 
+User needs email address and password to register.
+Sign in:
+Whenever the user sign in with their email and password they will be redirected to the corresponding account home page. 
+FAQ:	
+It will contain generally asked questions on how to sign up, upload and download.
+
+Account Information:	
+
+This will contain personal information and account related information. 
+Edit Account Information:
+User will able to edit their account information. Also there will be option to delete account.
+Log Out:
+User can log out any time from the web application.
+Password Reset:
+User can reset their password with the mail address they have registered
+
+Public view:
+
+Home page: 
+Whenever anyone hits this web application they will see the following options.
+Information:
+It will have a detail information about the web application and how to use it.
+Log in:
+It invokes the log in module for the registered users.	
+Register:
+It redirects the user to the following pages depending of their type.
+
+
+Business plan: 
+
+Users can only access their account by payment through Visa/MasterCard, Bkash(Brac bank) or Rocket(Dutch Bangla Bank). In future I will open a new online shopping section, there only travel equipment will be sold. 
+Public view advertising:
+First of all I will create an Advertise Here page on my web app to inform potential advertisers about the advertising opportunities on my app. I will convince potential advertisers why they should advertise their products and services on my app.
+I will share most of advertising options including banner ads that I’m accepting on my app though this page like banner ads format, their respective locations, availability of ad slots, monthly pricing for each ad unit.
+Most importantly I will share how I will be accepting money like via Visa/MasterCard or though credit cards etc. I will also share how advertisers can contact me by sharing my email id or by adding a contact form on advertising page.
+	
+Ads per minute served:1$
+
+Ads per hour served:20$
+
+

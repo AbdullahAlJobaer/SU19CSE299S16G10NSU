@@ -8,4 +8,6 @@ use App\User;
 
 
 class PaymentController extends Controller{
+    public function pay(Request $request){
+    }
 }

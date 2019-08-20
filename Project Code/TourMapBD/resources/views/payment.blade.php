@@ -33,3 +33,4 @@
 .StripeElement--webkit-autofill {
   background-color: #fefde5 !important;
 }
+</style>

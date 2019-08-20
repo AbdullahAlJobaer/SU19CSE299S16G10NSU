@@ -24,6 +24,9 @@ Route::group(['middleware'=>'auth'], function(){
     Route::get('/profile/{id}', 'UserController@show')->where('id','[0-9]+');
 
     Route::get('users', 'UserController@index');
+
+    Route::get('payment', 'PaymentController@create');
+    Route::post('stripe/charge','PaymentController@pay');
 });
 
 

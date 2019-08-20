@@ -8,6 +8,16 @@
                 <div class="card-header">{{ __('Login') }}</div>
 
                 <div class="card-body">
+                <style>
+            html, body {
+                background-color: #80604d ;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 200;
+                height: 100vh;
+                margin: 0;
+            }
+            </style>
                     <form method="POST" action="{{ route('login') }}">
                         @csrf
 

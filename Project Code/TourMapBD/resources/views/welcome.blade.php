@@ -83,16 +83,6 @@
                 <div class="title m-b-md">
                     TourMapBD
                 </div>
-
-                <div class="links">
-                    <a href="https://bit.ly/2Y6g1qk">Dhaka</a>
-                    <a href="https://bit.ly/2y5etlD">Chittagong</a>
-                    <a href="https://bit.ly/2y5eE0h">Sylhet</a>
-                    <a href="https://bit.ly/2XX9Qd1">Rajshahi</a>
-                    <a href="https://bit.ly/2JUIryp">Barisal</a>
-                    <a href="https://bit.ly/32JAPY9">Khulna</a>
-                    <a href="https://bit.ly/2Yn9FXD">Mymensingh</a>
-                </div>
             </div>
         </div>
     </body>

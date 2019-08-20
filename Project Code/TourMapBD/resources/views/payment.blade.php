@@ -49,7 +49,26 @@
                         </div>
                     @endif
 
-                   
+                    <form action="{{url('stripe/charge')}}" method="post" id="payment-form">
+                        {{csrf_field()}}
+                        <div class="form-group">
+                            <label for="exampleFormControlInput1">Amount ($)</label>
+                            <input type="text" class="form-control" id="exampleFormControlInput1" name="amount">
+                        </div>
+                        <div class="form-group">
+                            <label for="card-element">
+                            Credit or debit card
+                            </label>
+                            <div id="card-element">
+                            <!-- A Stripe Element will be inserted here. -->
+                            </div>
+
+                            <!-- Used to display form errors. -->
+                            <div id="card-errors" role="alert"></div>
+                        </div>
+
+                        <button class="btn btn-sm btn-success">Submit Payment</button>
+                    </form>
                 </div>
             </div>
         </div>

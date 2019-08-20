@@ -40,9 +40,22 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header"> Personal Information</div>
+                <div class="card-header"> Online Payments</div>
 
                 <div class="card-body">
+
+                <style>
+            html, body {
+                background-color: #ffcf9c ;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 200;
+                height: 100vh;
+                margin: 0;
+            }
+
+       
+        </style>
                     @if (session('status'))
                         <div class="alert alert-success" role="alert">
                             {{ session('status') }}
